@@ -1,0 +1,4 @@
+#Mon Feb 03 00:38:33 EST 2020
+base.0=/Users/sammyabdulkader/Desktop/Family-House-Android/NavigationMenu/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
