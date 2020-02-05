@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_linens"
+        android:icon="@drawable/ic_airline_seat_individual_suite_black_24dp"
+        android:title="@string/title_linens" />
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_notifications" />
+    <item
+        android:id="@+id/navigation_FAQ"
+        android:icon="@drawable/ic_question_answer_black_24dp"
+        android:title="@string/title_FAQ" />
+    <item
+        android:id="@+id/navigation_schedule"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_schedule" />
+
+</menu>
